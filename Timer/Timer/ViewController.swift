@@ -14,26 +14,18 @@ class ViewController: UIViewController {
     
     var timerCount = 0
     var timerRunning = false
-    var timer = NSTimer()
+    var timer = Foundation.Timer()
 
-    
-    func Counting() {
-        
-        timerCount += 1
-        timerLabel.text = "\(timerCount)"
-        
-    }
-  
     // ====================
     // MARK: SATRT_BUTTON
     // ====================
-    @IBAction func startButton(sender: UIButton) {
+    @IBAction func startButton(_ sender: UIButton) {
         
         if timerRunning == false {
             
             // 调用NSTimer的类方法 scheduledTimerWithTimeInterval 创建并启动一个每1秒钟调用1次Counting:方法的timer.
             // 并将返回的实例保存到timer中。
-            timer = NSTimer.scheduledTimerWithTimeInterval(1, target: self, selector: #selector(ViewController.Counting), userInfo: nil, repeats: true)
+            timer = Foundation.Timer.scheduledTimer(timeInterval: 1, target: self, selector: #selector(ViewController.Counting), userInfo: nil, repeats: true)
             
             timerRunning = true
         }
@@ -44,7 +36,7 @@ class ViewController: UIViewController {
     // ====================
     // MARK: STOP_BUTTON
     // ====================
-    @IBAction func stopButton(sender: UIButton) {
+    @IBAction func stopButton(_ sender: UIButton) {
         
         if timerRunning == true {
             
@@ -59,11 +51,18 @@ class ViewController: UIViewController {
     // ====================
     // MARK: RESTART_BUTTON
     // ====================
-    @IBAction func restart(sender: UIButton) {
+    @IBAction func restart(_ sender: UIButton) {
         
         // 复位
         timerCount = 0
         timerLabel.text = "0"
+        
+    }
+    
+    func Counting() {
+        
+        timerCount += 1
+        timerLabel.text = "\(timerCount)"
         
     }
     
