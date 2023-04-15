@@ -29,4 +29,4 @@
 
 ### screenshot
 
-![](https://github.com/DevLiuSir/Timer/raw/master/Timer/preview.gif)
+![](https://github.com/DevLiuSir/Timer/raw/master/Timer/Design/Preview.gif)
