@@ -27,6 +27,6 @@
 
 
 
-### Screencast from our Demo
+### screenshot
 
 ![](https://github.com/DevLiuSir/Timer/raw/master/Timer/preview.gif)
