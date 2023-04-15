@@ -1,4 +1,3 @@
-## Timer
 <p align="center">
 <img src="https://badgen.net/badge/icon/apple?icon=apple&label">
 <img src="https://img.shields.io/badge/iOS-13.0 +-f05138?labelColor=282c34&logo=apple" alt="iOS 13.0 +" />
