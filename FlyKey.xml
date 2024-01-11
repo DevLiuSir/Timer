@@ -1,0 +1,17 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>FlyKey</title>
+        <item>
+            <description>
+            <![CDATA[ <ul> <li> 更新</br> 1.修复在MacOS11 Bigsur上无法打开的问题</br> 联系我们：</br> 用户QQ交流群：940352655</br> </li> </ul> ]]>
+            </description>
+            <title>1.6.4</title>
+            <pubDate>Thu, 11 Jan 2024 11:55:57 +0800</pubDate>
+            <sparkle:version>2023121902</sparkle:version>
+            <sparkle:shortVersionString>1.6.4</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>10.15</sparkle:minimumSystemVersion>
+            <enclosure url="https://www.better365.cn/FlyKey2023121902.zip"  sparkle:version="2023121902" sparkle:shortVersionString="1.6.4">  length="3665130" type="application/octet-stream" sparkle:edSignature="KTTEqEuG+36z599cdO2+4QxzxKT29GF4YpNFJVsHLwyxvuUysfToj1Hqc+NYTaV3Xn6QOUlPgd3dTb+rJF6wCw=="/> </enclosure>
+        </item>
+    </channel>
+</rss>
