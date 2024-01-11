@@ -11,7 +11,7 @@
             <sparkle:version>2023121902</sparkle:version>
             <sparkle:shortVersionString>1.6.4</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>10.15</sparkle:minimumSystemVersion>
-            <enclosure url="https://cdn.better365.cn/FlyKey/FlyKey2023121902.zip" length="3665130" type="application/octet-stream" sparkle:edSignature="KTTEqEuG+36z599cdO2+4QxzxKT29GF4YpNFJVsHLwyxvuUysfToj1Hqc+NYTaV3Xn6QOUlPgd3dTb+rJF6wCw=="/>
+            <enclosure url="https://cdn.better365.cn/FlyKey/FlyKey2023121902.zip" length="3750475" type="application/octet-stream" sparkle:edSignature="KTTEqEuG+36z599cdO2+4QxzxKT29GF4YpNFJVsHLwyxvuUysfToj1Hqc+NYTaV3Xn6QOUlPgd3dTb+rJF6wCw=="/>
         </item>
     </channel>
 </rss>
