@@ -11,7 +11,7 @@
             <description>
 <![CDATA[ <ul> <li> 更新</br> 1.修复开机自启动问题</br> 2.修复App内链接错误问题</br> 如果在线更新出错，您可以在官网重新下载安装包进行安装https://www.better365.cn/FlyKey.html</br> </li> </ul> ]]>
 </description>
-            <enclosure url="https://raw.githubusercontent.com/DevLiuSir/Timer/master/FlyKey2023121902.zip" length="3665130" type="application/octet-stream" sparkle:edSignature="jGIBTs2Fk1HxUFcEH03/zxm2riaub97tu8djl5Xw2lFMAQxfy/qzYXkD9Tve1UDyLmBatofuou0p6K1ie9iJDw=="/>
+            <enclosure url="https://raw.githubusercontent.com/DevLiuSir/Timer/master/FlyKey2023121902.zip" type="application/octet-stream" sparkle:edSignature="jGIBTs2Fk1HxUFcEH03/zxm2riaub97tu8djl5Xw2lFMAQxfy/qzYXkD9Tve1UDyLmBatofuou0p6K1ie9iJDw=="/>
         </item>
     </channel>
 </rss>
