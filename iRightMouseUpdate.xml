@@ -1,1 +1,14 @@
-Version 2.2.5 2024012301 2.2.5 https://www.better365.cn/irightmousepro.html 2024-01-23 09:00:00 GMT https://www.better365.cn/irightmousepro.html
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/">
+		<channel>
+	<item>
+			<title>Version 2.2.5</title>
+			<sparkle:version>2024012301</sparkle:version>
+			<sparkle:shortVersionString>2.2.5</sparkle:shortVersionString>
+			<sparkle:releaseNotesLink>https://www.better365.cn/irightmousepro.html</sparkle:releaseNotesLink>
+            <pubDate>2024-01-23 09:00:00 GMT</pubDate>
+            <link>https://www.better365.cn/irightmousepro.html</link>
+
+        </item>
+	</channel>
+</rss>
