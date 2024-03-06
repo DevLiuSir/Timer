@@ -1,14 +1,1 @@
-<?xml version="1.0" standalone="yes"?>
-<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
-    <channel>
-        <title>iRightMouse Pro</title>
-        <item>
-            <title>2.2.6</title>
-            <pubDate>Fri, 12 Jan 2024 10:06:58 +0800</pubDate>
-            <sparkle:version>2023070601</sparkle:version>
-            <sparkle:shortVersionString>2.2.6</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>10.12</sparkle:minimumSystemVersion>
-            <enclosure url="https://raw.githubusercontent.com/DevLiuSir/Timer/master/iRightMouse%20Pro2024011201.zip"  type="application/octet-stream"/>
-        </item>
-    </channel>
-</rss>
+Version 2.2.5 2024012301 2.2.5 https://www.better365.cn/irightmousepro.html 2024-01-23 09:00:00 GMT https://www.better365.cn/irightmousepro.html
