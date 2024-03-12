@@ -8,7 +8,7 @@
             <sparkle:version>2024030601</sparkle:version>
             <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>11.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/DevLiuSir/Timer/blob/master/iFanControl2024031201.zip" length="4762645" type="application/octet-stream" sparkle:edSignature="KLZaaWvmGSbLuiSTZgWxFUrIkRhsvjKcDdg5AcnJ/SvwkL8RL0/wIrBUXRqnI07Ivcd6qjQc6eRmUOPG3jxcDw=="/>
+            <enclosure url="https://raw.githubusercontent.com/DevLiuSir/Timer/master/iFanControl2024031201.zip" length="4762645" type="application/octet-stream" sparkle:edSignature="KLZaaWvmGSbLuiSTZgWxFUrIkRhsvjKcDdg5AcnJ/SvwkL8RL0/wIrBUXRqnI07Ivcd6qjQc6eRmUOPG3jxcDw=="/>
         </item>
     </channel>
 </rss>
