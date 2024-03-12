@@ -8,6 +8,9 @@
             <sparkle:version>2024030601</sparkle:version>
             <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>11.0</sparkle:minimumSystemVersion>
+            <description>
+<![CDATA[ <ul> <li> 更新</br> 1.修复开机自启动问题</br> 2.修复App内链接错误问题</br> 如果在线更新出错，您可以在官网重新下载安装包进行安装https://www.better365.cn/FlyKey.html</br> </li> </ul> ]]>
+</description>
             <enclosure url="https://raw.githubusercontent.com/DevLiuSir/Timer/master/iFanControl2024031201.zip" length="4762645" type="application/octet-stream" sparkle:edSignature="KLZaaWvmGSbLuiSTZgWxFUrIkRhsvjKcDdg5AcnJ/SvwkL8RL0/wIrBUXRqnI07Ivcd6qjQc6eRmUOPG3jxcDw=="/>
         </item>
     </channel>
