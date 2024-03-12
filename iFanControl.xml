@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>iFanControl</title>
+        <item>
+            <title>1.0.0</title>
+            <pubDate>Tue, 12 Mar 2024 09:04:06 +0800</pubDate>
+            <sparkle:version>2024030601</sparkle:version>
+            <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>11.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/DevLiuSir/Timer/blob/master/iFanControl2024031201.zip" length="4762645" type="application/octet-stream" sparkle:edSignature="KLZaaWvmGSbLuiSTZgWxFUrIkRhsvjKcDdg5AcnJ/SvwkL8RL0/wIrBUXRqnI07Ivcd6qjQc6eRmUOPG3jxcDw=="/>
+        </item>
+    </channel>
+</rss>
