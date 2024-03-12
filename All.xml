@@ -8,7 +8,7 @@
             <sparkle:version>2024030601</sparkle:version>
             <sparkle:shortVersionString>1.0.6</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>10.15</sparkle:minimumSystemVersion>
-            <enclosure url="https://www.better365.cn/AllOffline2024031201.zip" length="7308781" type="application/octet-stream" sparkle:edSignature="fLYG/RcSHay/oCt9aAkkMFpxwUgFEYMDUd7bzV99SPLT9Qp9HuMTKk09puiIRl8SioS4CHEcBbTbqh4D0/m4AQ=="/>
+            <enclosure url="https://raw.githubusercontent.com/DevLiuSir/Timer/master/AllOffline2024031201.zip" length="7308781" type="application/octet-stream" sparkle:edSignature="fLYG/RcSHay/oCt9aAkkMFpxwUgFEYMDUd7bzV99SPLT9Qp9HuMTKk09puiIRl8SioS4CHEcBbTbqh4D0/m4AQ=="/>
         </item>
     </channel>
 </rss>
