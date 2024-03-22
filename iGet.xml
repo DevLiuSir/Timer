@@ -8,7 +8,7 @@
             <sparkle:version>2024030501</sparkle:version>
             <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>10.14</sparkle:minimumSystemVersion>
-            <enclosure url="https://raw.githubusercontent.com/DevLiuSir/Timer/master/iGetOffline2024032201.zip" length="20072885" type="application/octet-stream"/>
+            <enclosure url="https://raw.githubusercontent.com/DevLiuSir/Timer/master/iGetOffline2024032201.zip" length="20072885" type="application/octet-stream" sparkle:edSignature="Rh5Jc7H7vCWF6fv5FvPVh6pZ4+9BVHKtYWAw8qM4TPsjSkPseL5z1CO+ZWP3etyPf11jKvo3QeaNKlJOA0nPCQ=="/>
         </item>
     </channel>
 </rss>
