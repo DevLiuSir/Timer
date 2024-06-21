@@ -1,17 +1,14 @@
 <?xml version="1.0" standalone="yes"?>
 <rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
     <channel>
-        <title>iFanControl</title>
+        <title>iFan</title>
         <item>
-            <title>1.0.0</title>
-            <pubDate>Tue, 12 Mar 2024 09:04:06 +0800</pubDate>
-            <sparkle:version>2024030601</sparkle:version>
-            <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>11.0</sparkle:minimumSystemVersion>
-            <description>
-<![CDATA[ <ul> <li> 更新</br> 1.修复开机自启动问题</br> 2.修复App内链接错误问题</br> 如果在线更新出错，您可以在官网重新下载安装包进行安装https://www.better365.cn/FlyKey.html</br> </li> </ul> ]]>
-</description>
-            <enclosure url="https://raw.githubusercontent.com/DevLiuSir/Timer/master/iFanControl2024031201.zip" length="4762645" type="application/octet-stream" sparkle:edSignature="KLZaaWvmGSbLuiSTZgWxFUrIkRhsvjKcDdg5AcnJ/SvwkL8RL0/wIrBUXRqnI07Ivcd6qjQc6eRmUOPG3jxcDw=="/>
+            <title>1.0.2</title>
+            <pubDate>Fri, 21 Jun 2024 15:27:19 +0800</pubDate>
+            <sparkle:version>2024062001</sparkle:version>
+            <sparkle:shortVersionString>1.0.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>10.15</sparkle:minimumSystemVersion>
+            <enclosure url="https://raw.githubusercontent.com/DevLiuSir/Timer/master/iFan1.0.2_2024062001.zip" length="7174281" type="application/octet-stream" sparkle:edSignature="LKo0yXxXOVfrjqAR4CqajZUgoQ+HHtNo1fOfrELfIDSmncOLO6ghFevUoAFecOk2XqfLyprVzdof+JqL6IuSBQ=="/>
         </item>
     </channel>
 </rss>
