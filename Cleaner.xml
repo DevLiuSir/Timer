@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Application>
+    <Name>Cleaner</Name>
+    <BundleId>cn.better365.Cleaner</BundleId>
+    <ForceUpdateToTheLatest>false</ForceUpdateToTheLatest>
+    <MiniVersion>0.0.9</MiniVersion>
+    <ExpiredDate>2025-12-13</ExpiredDate>
+    <ExpiredOSVersion>17.0</ExpiredOSVersion>
+</Application>
