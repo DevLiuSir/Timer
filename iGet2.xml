@@ -5,5 +5,5 @@
     <ForceUpdateToTheLatest>false</ForceUpdateToTheLatest>
     <MiniVersion>1.0.8</MiniVersion>
     <ExpiredDate>2025-10-30</ExpiredDate>
-    <ExpiredOSVersion>15.0</ExpiredOSVersion>
+    <ExpiredOSVersion>26.0</ExpiredOSVersion>
 </Application>
