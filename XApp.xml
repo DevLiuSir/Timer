@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Application>
+    <Name>XApp</Name>
+    <BundleId>cn.better365.XApp</BundleId>
+    <ForceUpdateToTheLatest>false</ForceUpdateToTheLatest>
+    <MiniVersion>1.0.5</MiniVersion>
+    <ExpiredDate>2025-05-01</ExpiredDate>
+    <ExpiredOSVersion>27.0</ExpiredOSVersion>
+</Application>
+
