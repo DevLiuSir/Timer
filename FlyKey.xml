@@ -2,6 +2,6 @@
 <Application>
     <Name>FlyKey</Name>
     <BundleId>cn.better365.FlyKey</BundleId>
-    <MiniVersion>1.7.0</MiniVersion>
-    <BuildVersion>2025121101</BuildVersion>
+    <MiniVersion>1.7.1</MiniVersion>
+    <BuildVersion>2024121101</BuildVersion>
 </Application>
