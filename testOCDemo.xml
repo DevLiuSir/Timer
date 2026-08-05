@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>testOCDemo</title>
+        <item>
+            <title>1.1.0</title>
+            <pubDate>Wed, 05 Aug 2026 23:40:06 +0800</pubDate>
+            <sparkle:version>1</sparkle:version>
+            <sparkle:shortVersionString>1.1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>10.15</sparkle:minimumSystemVersion>
+            <enclosure url="https://raw.githubusercontent.com/DevLiuSir/Timer/6a5c4cbf8a26093ad2acc700b3e740e44ea8236e/testOCDemo1.1.0.zip" length="2709713" type="application/octet-stream" sparkle:edSignature="EGxieM+LkGY1mo/TrAroeOyrqHwlvpPruIgcYCrxtP0UVB/noQ94pFJLpmCQGfB/J58329OtUg5ILTQQIqdOAg=="/>
+        </item>
+    </channel>
+</rss>
