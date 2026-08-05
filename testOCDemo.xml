@@ -8,7 +8,7 @@
             <sparkle:version>1</sparkle:version>
             <sparkle:shortVersionString>1.1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>10.15</sparkle:minimumSystemVersion>
-            <enclosure url="https://raw.githubusercontent.com/DevLiuSir/Timer/6a5c4cbf8a26093ad2acc700b3e740e44ea8236e/testOCDemo1.1.0.zip" length="2709713" type="application/octet-stream" sparkle:edSignature="EGxieM+LkGY1mo/TrAroeOyrqHwlvpPruIgcYCrxtP0UVB/noQ94pFJLpmCQGfB/J58329OtUg5ILTQQIqdOAg=="/>
+            <enclosure url="https://github.com/DevLiuSir/Timer/blob/master/testOCDemo1.1.0.zip" length="2709713" type="application/octet-stream" sparkle:edSignature="EGxieM+LkGY1mo/TrAroeOyrqHwlvpPruIgcYCrxtP0UVB/noQ94pFJLpmCQGfB/J58329OtUg5ILTQQIqdOAg=="/>
         </item>
     </channel>
 </rss>
