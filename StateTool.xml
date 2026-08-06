@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>State Tool</title>
+        <item>
+            <title>2.1.5</title>
+            <pubDate>Thu, 06 Aug 2026 08:44:05 +0800</pubDate>
+            <sparkle:version>2026080401</sparkle:version>
+            <sparkle:shortVersionString>2.1.5</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>10.14</sparkle:minimumSystemVersion>
+            <enclosure url="https://raw.githubusercontent.com/DevLiuSir/Timer/refs/heads/master/State%20Tool2.1.5_2026080601.zip" length="22612050" type="application/octet-stream" sparkle:edSignature="bmJZOprqWRB7AA3ACIZx4j8jWoAulF2ZWbKsBOdy+P9YhrVMkK2mTcFdjjdv+ijnnjsoJ6OPnaqXsr7mILHcCg=="/>
+        </item>
+    </channel>
+</rss>
