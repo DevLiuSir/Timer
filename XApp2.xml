@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>XAppTool</title>
+        <item>
+            <title>1.1.6</title>
+            <pubDate>Fri, 21 Aug 2026 21:12:00 +0800</pubDate>
+            <sparkle:version>2026030901</sparkle:version>
+            <sparkle:shortVersionString>1.1.6</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>10.15</sparkle:minimumSystemVersion>
+            <enclosure url="XAppTool1.1.6_2026030901.zip" length="4111915" type="application/octet-stream" sparkle:edSignature="T7t5nXwzWchCIQFmmjFZY2E6w+tnCA2rUJDUBIKNC2TRoKavOcNdZZtMIf29KwGLhyaWYNHkSoBiEDNLzeizDw=="/>
+        </item>
+    </channel>
+</rss>
