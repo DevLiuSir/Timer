@@ -3,12 +3,12 @@
     <channel>
         <title>XAppTool</title>
         <item>
-            <title>1.1.6</title>
-            <pubDate>Fri, 21 Aug 2026 21:12:00 +0800</pubDate>
-            <sparkle:version>2026030901</sparkle:version>
-            <sparkle:shortVersionString>1.1.6</sparkle:shortVersionString>
+            <title>1.1.7</title>
+            <pubDate>Fri, 18 Sep 2026 23:45:56 +0800</pubDate>
+            <sparkle:version>2026091801</sparkle:version>
+            <sparkle:shortVersionString>1.1.7</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>10.15</sparkle:minimumSystemVersion>
-            <enclosure url="XAppTool1.1.6_2026030901.zip" length="4111915" type="application/octet-stream" sparkle:edSignature="T7t5nXwzWchCIQFmmjFZY2E6w+tnCA2rUJDUBIKNC2TRoKavOcNdZZtMIf29KwGLhyaWYNHkSoBiEDNLzeizDw=="/>
+            <enclosure url="https://raw.githubusercontent.com/DevLiuSir/Timer/refs/heads/master/XAppTool1.1.7_2026091801.zip" length="4122751" type="application/octet-stream" sparkle:edSignature="xiBXwcsC4QudqOBkp9lEV8EPKJD05auorGTfl8Q1sb7GSyxfkjqcVjtjZNxpjvNIqm+DZ13Wo50LaVaECdorBg=="/>
         </item>
     </channel>
 </rss>
